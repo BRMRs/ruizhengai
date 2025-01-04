@@ -1,13 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Rui Zheng 郑睿
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Rui
+last_name: Zheng
 
 # Status emoji
 status:
@@ -24,8 +21,8 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: XJTLU
+    url: https://www.xjtlu.edu.cn/en
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
